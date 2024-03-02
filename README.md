@@ -1,0 +1,1 @@
+MedHead est un regroupement de grandes institutions médicales œuvrant au sein du système de santé britannique et assujetti à la réglementation et aux directives locales (NHS). Les organisations membres du Consortium utilisent une grande variété de plateformes, de technologies et d’appareils qui souhaite utiliser Java comme langage principal. 
